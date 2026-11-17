@@ -1,2 +1,2 @@
 ciao mondo
-salve da locale
+salve da locale.
